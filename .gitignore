@@ -1,0 +1,10 @@
+# Claude Code project instructions (kept local, not published)
+CLAUDE.md
+/node_modules
+# Server
+server/.env
+server/node_modules/
+
+# Client
+client/node_modules/
+client/dist/
